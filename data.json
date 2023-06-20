@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Iron Man",
+        "age":40
+    },
+    {
+        "name":"Thor",
+        "age":1500
+    },
+    {
+        "name":"Rocket",
+        "age":14
+    },
+    {
+        "name":"Thanos",
+        "age":1000
+    },
+    {
+        "name":"Dr.Strange",
+        "age":42
+    },
+    {
+        "name":"Loki",
+        "age":100
+    }
+]
